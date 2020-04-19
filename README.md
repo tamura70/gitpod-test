@@ -19,7 +19,19 @@
 
 ### 利用例
 
-![gitpod](gitpod.gif)
+- C言語
+
+```
+$ make
+$ ./hellokobe
+```
+
+- Java言語
+
+```
+$ javac Hello.java
+$ java Hello
+```
 
 ## 二回目以降の利用
 
