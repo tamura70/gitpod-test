@@ -39,3 +39,6 @@ $ java Hello
 
 - <https://gitpod.io>
 
+## 画像
+
+![](medjed.png)
