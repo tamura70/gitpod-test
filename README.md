@@ -39,7 +39,7 @@ $ java Hello
 
 - <https://gitpod.io>
 
-## 画像
+## 画像の例
 
 ![](medjed.png)
 
